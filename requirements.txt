@@ -1,0 +1,6 @@
+# Core application (DPS.py) runs out-of-the-box using the Python 3.8+ Standard Library
+# (ctypes, tkinter, threading, http.server, urllib.parse, math, collections, dataclasses).
+
+# Optional dependency for offline log-distance path-loss calibration (AutoCalibrator):
+scipy>=1.10.0
+numpy>=1.24.0
